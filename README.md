@@ -1,5 +1,5 @@
 # dlc2txt
-Decrypt .dlc files.
+Decrypt .dlc files. Containers sucks. Really!
 
 Visit [fox21.at](http://fox21.at).
 
