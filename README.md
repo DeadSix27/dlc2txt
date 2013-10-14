@@ -1,8 +1,6 @@
 # dlc2txt
 Decrypt `.dlc` files. Containers sucks. Really!
 
-Visit [fox21.at](http://fox21.at).
-
 ## NOTE
 There are no Keys in die source code.
 
@@ -26,7 +24,7 @@ There are no Keys in die source code.
 You need to set up `$KEYA`, `$KEYB` and `$PROGNAME`.
 
 ## Special thanks to
-eddy14 ([http://pyropeter.eu/41yd.de/blog/2008/11/15/dlc-geknackt/](http://pyropeter.eu/41yd.de/blog/2008/11/15/dlc-geknackt/))
+eddy14 - <http://pyropeter.eu/41yd.de/blog/2008/11/15/dlc-geknackt/>
 
 ## License
 Copyright (C) 2013 Christian Mayer (<thefox21at@gmail.com> - <http://fox21.at>)
