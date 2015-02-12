@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
-# Created @ 01.04.2009 by TheFox@fox21.at
+# Created @ 01.04.2009
 # Version: 1.1.2
-# Copyright (c) 2009, 2010 TheFox
+# Copyright (C) 2009 Christian Mayer <http://fox21.at>
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -313,5 +313,3 @@ sub xorcrypt{
 }
 
 main();
-
-# EOF
